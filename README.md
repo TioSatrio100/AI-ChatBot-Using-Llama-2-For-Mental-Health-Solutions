@@ -10,7 +10,7 @@ This is your AI companion for mental health, offering empathetic support and per
 
 - Download Llama-2-7B-Chat-GGML model from hugging face.
 - Click [here](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/resolve/main/llama-2-7b-chat.ggmlv3.q8_0.bin?download=true) to download.
-- Install Python 3.12 on your machine from here
+- Install Python 3.12.
 - Download Visual Studio Code or any Python IDE.
 
 **Step 2: Setting up workspace**
